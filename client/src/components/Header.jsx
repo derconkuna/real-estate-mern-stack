@@ -30,7 +30,7 @@ const Header = () => {
         <Link to="/about" className=" hidden sm:inline-block">
           <p>About</p>
         </Link>
-        <Link to="/sign-in">SignIn</Link>
+        <Link to="/sign-up">SignIn</Link>
       </div>
     </header>
   );
